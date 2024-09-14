@@ -1,5 +1,4 @@
-# CKN from Scratch
-Implementation from scratch, without ML librairies, of the Convolutional Kernel Network of [[Mairal, 2016](https://proceedings.neurips.cc/paper_files/paper/2016/file/fc8001f834f6a5f0561080d134d53d29-Paper.pdf)].
+# Labs of MVA Object Recognition and Computer Vision Course
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -35,22 +34,17 @@ List of labs:
 * Lab 2: Neural Networks
 * Lab 3: Image Classification Challenge
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 [![Python][Python]][Python-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
