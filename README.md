@@ -23,30 +23,7 @@ Implementation from scratch, without ML librairies, of the Convolutional Kernel 
 -->
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://www.master-mva.com/">
-    <img src="https://github.com/ozekri/CKN_from_Scratch/blob/main/img/CKN.png" alt="Logo">
-  </a>
-<h3 align="center">Project Kernel Methods 2023/2024 : <a href="https://github.com/ozekri/CKN_from_Scratch">CKN from Scratch</a></h3>
 
-</div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
 
 
 
