@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Labs of MVA [Object Recognition and Computer Vision(https://gulvarol.github.io/teaching/recvis23/)] course.
+Labs of MVA [Object Recognition and Computer Vision](https://gulvarol.github.io/teaching/recvis23/) course.
 List of labs:
 * Lab 1: Instance Level Recognition
 * Lab 2: Neural Networks
